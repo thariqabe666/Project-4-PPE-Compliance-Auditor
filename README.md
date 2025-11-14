@@ -42,7 +42,7 @@ This application was developed as a final capstone project for the **Purwadhika 
 
 ---
 
-##  notebooks Model Training & Analysis
+## 📙 Model Training & Analysis
 
 The complete process of data exploration, evaluation, and fine-tuning the YOLOv12 model is documented in the Jupyter Notebook:
 `capstone4_thariq_ahmad_ppe_audit.ipynb`
