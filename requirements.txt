@@ -5,4 +5,4 @@ opencv-python-headless
 
 # Menginstal ultralytics (YOLOv12) langsung dari repo resmi
 # Ini adalah trik agar kita mendapatkan versi yang TEPAT (bukan dari PyPI)
-git+https://github.com/sunsmarterjie/yolov12.git
+git+https://github.com/thariqabe666/yolov12.git
