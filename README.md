@@ -4,11 +4,14 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-<p align="center">
-  <img src="docs/demo.gif" alt="App Demo" width="800"/>
-</p>
-
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ppe-hse-compliance-auditor.streamlit.app/)
+
+---
+## ⏭️ Quick Demo
+
+![2025-11-1423-29-28-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/dba011e7-2d04-4174-babb-dde793cf4a64)
+
+---
 
 ## 🚀 About This Project
 
