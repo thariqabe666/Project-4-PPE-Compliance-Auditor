@@ -8,6 +8,8 @@
   <img src="docs/demo.gif" alt="App Demo" width="800"/>
 </p>
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ppe-hse-compliance-auditor.streamlit.app/)
+
 ## 🚀 About This Project
 
 This project is an AI-powered application designed to automatically audit **Personal Protective Equipment (PPE) compliance** on construction sites. It leverages the state-of-the-art **YOLOv12** object detection model to analyze images, identify workers, and instantly report on their adherence to safety standards (helmets and vests).
